@@ -12,7 +12,7 @@ code();
 while(isAlive);
 
 function code() {
-alert('Hello World');
+alert'Hello World' {;
 }
 ```
 
